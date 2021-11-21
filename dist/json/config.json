@@ -1,0 +1,12 @@
+{
+    "isProd": false,
+    "rememberLanguage": true,
+    "defaultLanguage": "es",
+    "updateTime": 600000,
+    "defaultApp": 0,
+    "isDebug": true,
+    "showContextMenu": true,
+    "showMouse": true,
+    "isFullScreen": false
+}
+
